@@ -1,0 +1,5 @@
+[
+    {"title":"מסתדר טוב", "date": "יולי 2020", "link": "https://open.spotify.com/album/6n47VJCcEHEvFOLbhgkzem?si=lu86n_2pSxuz3g9Lw8eweQ", "img":"./assets/album1.png", "songs":["מתגעגע לאהבה","עשבים שוטים","אם הייתי","ביחד לתמיד","מסתדר טוב"]},
+    {"title":"אסור לך", "date": "ספטמבר 2020", "link": "https://open.spotify.com/album/6o0OWAdfVoItuHvbuQLhco?si=mtdl3ziRQi2-WIrDa6c1pw", "img":"./assets/asur.png", "songs":[""]},
+    {"title":"סקיצות א", "date": "פברואר 2021", "link": "https://open.spotify.com/album/1kc9YOQRqAej0WHrY4aUcR?si=IcN_Y2PrTZ6xE6ciW_2pjQ", "img":"./assets/ski1.png", "songs":["בית, אלתור לילה","אדם רגיש","לא בא אלייך","אני, אוהב את עצמי","זמן לא עובר לי"]}
+]
